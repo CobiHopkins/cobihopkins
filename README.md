@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Cobi.
 - 🔭 I'm currently working on a React Portfolio.
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Web or Discord projects.
+- 👯 I’m looking to collaborate on Web, Mobile, or Discord projects.
 - 🤔 I'm looking for experience working on frontend (Web) and backend (Web, Discord) projects.
 - ⚡ Fun fact: I am an avid Ice Skater. You can usually find me at a rink.
